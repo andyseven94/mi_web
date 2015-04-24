@@ -19,7 +19,7 @@ public class PruebaGit {
         
         System.out.println("primera linea de codigo de prueba ");
         System.out.println("primera modificacion de archivos");
-        System.out.println("hola modificacion desde github")
+        System.out.println("hola modificacion desde github");
     }
     
 }
